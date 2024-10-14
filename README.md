@@ -1,0 +1,12 @@
+- mkdir
+- ls
+- touch
+- &&
+- cp
+- mv
+- rm
+- *
+- >
+- >>
+- cat
+- vim
